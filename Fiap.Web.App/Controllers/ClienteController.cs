@@ -16,10 +16,17 @@ namespace Fiap.Web.App.Controllers
         {
             string nome = cliente.Nome;
             string sobrenome = cliente.Sobrenome;
+            string email = cliente.Email;
+            DateTime dataNascimento = cliente.DataNascimento;
 
-            Console.WriteLine("Pritando pelo Cadastrar");
+            int dia = dataNascimento.Day;
+            int mes = dataNascimento.Month;
+            int ano = dataNascimento.Year;
+
             Console.WriteLine(nome);
             Console.WriteLine(sobrenome);
+            Console.WriteLine(email);
+            Console.WriteLine(dia + "/" + mes + "/" + ano);
 
             ViewBag.titulo = "Cadastro Cliente";
             return View();
