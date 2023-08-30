@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Movie";
+}
+<h1>Filmes da disney</h1>
+
+<form action="/movie/index" method="post">
+    <div style="mb-3">
+        <label>Nome</label>
+        <input type="text" name="nome" class="form-control" />
+    </div>
+
+    <div style="mb-3">
+        <label>Ano Lançamento</label>
+        <input type="text" name="anoLancamento" class="form-control" />
+    </div>
+
+    <div style="mb-3">
+        <label>Faturamento</label>
+        <input type="text" name="faturamento" class="form-control" />
+    </div>
+
+    <div style="display: flex; justify-content: center;margin-top: 50px">
+        <input class="btn btn-primary" type="submit" value="Enviar" />
+    </div>
+</form>

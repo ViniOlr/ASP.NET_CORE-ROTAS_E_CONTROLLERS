@@ -29,6 +29,7 @@ namespace Fiap.Web.App.Controllers
             Console.WriteLine(dia + "/" + mes + "/" + ano);
 
             ViewBag.titulo = "Cadastro Cliente";
+            ViewBag.nome = nome;
             return View();
         }
     }

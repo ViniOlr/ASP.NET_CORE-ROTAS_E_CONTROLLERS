@@ -29,3 +29,4 @@ C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App\obj\Debug\net6.0\re
 C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App\obj\Debug\net6.0\Fiap.Web.App.pdb
 C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App\obj\Debug\net6.0\Fiap.Web.App.genruntimeconfig.cache
 C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App\obj\Debug\net6.0\ref\Fiap.Web.App.dll
+C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
