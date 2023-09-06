@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logonrmlocal\\source\\repos\\Fiap.Web.App\\Fiap.Web.App\\Fiap.Web.App.csproj": {}
+    "C:\\Users\\logonrmlocal\\Desktop\\ASP.NET_CORE-ROTAS_E_CONTROLLERS\\Fiap.Web.App\\Fiap.Web.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logonrmlocal\\source\\repos\\Fiap.Web.App\\Fiap.Web.App\\Fiap.Web.App.csproj": {
+    "C:\\Users\\logonrmlocal\\Desktop\\ASP.NET_CORE-ROTAS_E_CONTROLLERS\\Fiap.Web.App\\Fiap.Web.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logonrmlocal\\source\\repos\\Fiap.Web.App\\Fiap.Web.App\\Fiap.Web.App.csproj",
+        "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\ASP.NET_CORE-ROTAS_E_CONTROLLERS\\Fiap.Web.App\\Fiap.Web.App.csproj",
         "projectName": "Fiap.Web.App",
-        "projectPath": "C:\\Users\\logonrmlocal\\source\\repos\\Fiap.Web.App\\Fiap.Web.App\\Fiap.Web.App.csproj",
+        "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\ASP.NET_CORE-ROTAS_E_CONTROLLERS\\Fiap.Web.App\\Fiap.Web.App.csproj",
         "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logonrmlocal\\source\\repos\\Fiap.Web.App\\Fiap.Web.App\\obj\\",
+        "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\ASP.NET_CORE-ROTAS_E_CONTROLLERS\\Fiap.Web.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

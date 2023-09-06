@@ -9,77 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Fiap.Web.App
 build_property.RootNamespace = Fiap.Web.App
-build_property.ProjectDir = C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App\
+build_property.ProjectDir = C:\Users\logonrmlocal\Desktop\ASP.NET_CORE-ROTAS_E_CONTROLLERS\Fiap.Web.App\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\logonrmlocal\source\repos\Fiap.Web.App\Fiap.Web.App
+build_property.MSBuildProjectDirectory = C:\Users\logonrmlocal\Desktop\ASP.NET_CORE-ROTAS_E_CONTROLLERS\Fiap.Web.App
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/Error.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/Index.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/Privacy.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/_ViewImports.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/_ViewStart.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Cliente/Cadastrar.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Cliente/Cadastrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYWRhc3RyYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Cliente/Index.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Home/Index.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Home/Privacy.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Movie/Index.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Media/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Shared/Error.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/_ViewImports.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/_ViewStart.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Pages/Shared/_Layout.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9098i0pjcg
 
-[C:/Users/logonrmlocal/source/repos/Fiap.Web.App/Fiap.Web.App/Views/Shared/_Layout.cshtml]
+[C:/Users/logonrmlocal/Desktop/ASP.NET_CORE-ROTAS_E_CONTROLLERS/Fiap.Web.App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-89ot1n776t

@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Cálculo de média</h1>
+
+<form action="/media/index" method="post">
+    <div style="mb-3">
+        <label>Media 1</label>
+        <input type="text" name="Media1" class="form-control" />
+    </div>
+
+    <div style="mb-3">
+        <label>Media 2</label>
+        <input type="text" name="Media2" class="form-control" />
+    </div>
+
+    <div style="display: flex; justify-content: center;margin-top: 50px">
+        <input class="btn btn-primary" type="submit" value="Enviar" />
+    </div>
+</form>
+
+<h3>@ViewBag.conteudo</h3>
